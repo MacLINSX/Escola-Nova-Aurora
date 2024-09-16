@@ -48,3 +48,24 @@ li,ul{
 a{
     color: white;
 }
+
+.text{
+ text-align: center;
+ color: white;
+ font-size: 20px;
+ text-align: justify;
+
+}
+footer{
+    color: white;
+    text-align: center;
+}
+.inscrever{
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-top: 10px;
+}
